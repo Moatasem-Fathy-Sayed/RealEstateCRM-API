@@ -1,0 +1,17 @@
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\bin\Debug\net9.0\RealEstateCRM.Infrastructure.deps.json
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\bin\Debug\net9.0\RealEstateCRM.Infrastructure.runtimeconfig.json
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\bin\Debug\net9.0\RealEstateCRM.Infrastructure.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\bin\Debug\net9.0\RealEstateCRM.Infrastructure.pdb
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\bin\Debug\net9.0\RealEstateCRM.Core.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\bin\Debug\net9.0\RealEstateCRM.Core.pdb
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.AssemblyInfo.cs
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEsta.F2FF7538.Up2Date
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\refint\RealEstateCRM.Infrastructure.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.pdb
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\RealEstateCRM.Infrastructure.genruntimeconfig.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Infrastructure\obj\Debug\net9.0\ref\RealEstateCRM.Infrastructure.dll

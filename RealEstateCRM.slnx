@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+    <File Path="git.ignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="RealEstateCRM.API/RealEstateCRM.API.csproj" />
+  <Project Path="RealEstateCRM.Core/RealEstateCRM.Core.csproj" />
+  <Project Path="RealEstateCRM.Infrastructure/RealEstateCRM.Infrastructure.csproj" />
+  <Project Path="RealEstateCRM.Tests/RealEstateCRM.Tests.csproj" />
+</Solution>

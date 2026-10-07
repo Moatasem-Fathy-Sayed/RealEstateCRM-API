@@ -1,0 +1,13 @@
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\bin\Debug\net9.0\RealEstateCRM.Core.deps.json
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\bin\Debug\net9.0\RealEstateCRM.Core.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\bin\Debug\net9.0\RealEstateCRM.Core.pdb
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.csproj.AssemblyReference.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.AssemblyInfo.cs
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\refint\RealEstateCRM.Core.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEstateCRM.Core.pdb
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\ref\RealEstateCRM.Core.dll
+C:\Users\Mohamed Fathy\source\repos\RealEstateCRM\RealEstateCRM.Core\obj\Debug\net9.0\RealEsta.9AC73AEB.Up2Date
