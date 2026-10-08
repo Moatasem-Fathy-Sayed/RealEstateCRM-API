@@ -42,4 +42,4 @@ namespace RealEstateCRM.API.Controllers
             return Ok(result);
         }
     }
-}
+} 
