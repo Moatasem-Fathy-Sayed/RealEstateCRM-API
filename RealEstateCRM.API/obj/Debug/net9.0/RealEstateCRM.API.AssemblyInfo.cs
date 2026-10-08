@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealEstateCRM.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790364c58c037d84b470e46c68599c83b7737888")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealEstateCRM.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealEstateCRM.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
